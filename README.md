@@ -185,7 +185,7 @@ flutter run
 ## Liên hệ
 
 - MSSV: 1771020345
-- Email: [email]@example.com
+- huyq91334@gmail.com
 
 ---
 
